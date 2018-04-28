@@ -28,7 +28,9 @@ import winreg
 #
 
 
-
+#                                      Developed by MafiaSec Cybersecurity
+#                                      FOR EDUCATIONAL & AUTHORIZED USE ONLY
+#                                                mafiasec.net
 
 # TO-DO list:
 
